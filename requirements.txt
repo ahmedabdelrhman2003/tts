@@ -1,0 +1,7 @@
+Django==5.1
+djangorestframework
+gunicorn
+PyPDF2
+edge-tts
+whitenoise
+python-dotenv
